@@ -1,5 +1,5 @@
-# Paduzdzikava Alena
-Technical task for the traineeship QA Automation
+# Technical task for the traineeship QA Automation
+
 Task 1
 
 Make up an algorithm 
